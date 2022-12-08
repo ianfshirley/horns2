@@ -4,7 +4,9 @@ class HornedBeast extends React.Component {
 
   render() {
     return (
-      <p>horned beast</p>
+      <>
+
+      </>
     );
   }
 }

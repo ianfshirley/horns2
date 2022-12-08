@@ -23,3 +23,17 @@ Start time: 10:11pm
 Finish time: 10:34pm
 
 Actual time needed to complete: 23 min
+
+Name of feature: Render 2 horned beasts w/ image & description
+
+Estimate of time needed to complete: 30 min
+
+Start time: 10:40pm
+
+Paused at 10:46pm
+
+Restart time: 
+
+Finish time: 
+
+Actual time needed to complete: 
